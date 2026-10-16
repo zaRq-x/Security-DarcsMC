@@ -77,7 +77,7 @@ export const botConfig = {
     applicationCooldown: 24,
 
     // Auto-delete denied applications after this many days.
-    deleteDeniedAfter: 7,
+    deleteDeniedAfter: 14,
 
     // Auto-delete approved applications after this many days.
     deleteApprovedAfter: 30,
