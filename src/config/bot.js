@@ -435,7 +435,7 @@ export const botConfig = {
   // =========================
   messages: {
     noPermission: "You do not have permission to use this command.",
-    cooldownActive: "Please wait {time} before using this command again.",
+    cooldownActive: "Please wait {5} before using this command again.",
     errorOccurred: "An error occurred while executing this command.",
     missingPermissions:
       "I am missing required permissions to perform this action.",
